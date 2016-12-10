@@ -1,2 +1,2 @@
 # Informational-Retrieval---Tokenize
-Tokenization and Stemmingn
+Tokenization and Stemming
